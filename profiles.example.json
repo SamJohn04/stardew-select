@@ -1,0 +1,33 @@
+{
+  "kawaii": {
+    "name": "Kawaii",
+    "description": "Cuter animals, portraits, map locations.",
+    "mods": [
+      "ConsoleCommands",
+      "ContentPatcher",
+      "FarmTypeManager",
+      "SaveBackup",
+      "GenericModConfigMenu",
+      "GMCMOptions",
+      "[CP] Elle's Cuter Barn Animals",
+      "[CP] Elle's Cuter Coop Animals",
+      "[CP] Elle's Cuter Horses",
+      "[CP] Elle's Cuter Dogs",
+      "[CP] Elle's Cuter Cats",
+      "[CP] Elle's Cuter Trinkets",
+      "[CP] Elle's Cuter Turtles",
+      "[CP] Slightly Cuter Characters",
+      "[CP] Elle's Town Animals",
+      "[CP] Elle's Seasonal Buildings",
+      "[CP] Elle's Dirt and Cliff Recolor",
+      "[CP] Elle's Cuter Foliage",
+      "[CP] Elle's Grass Replacement",
+      "[CP] Elle's Seasonal Buildings",
+      "[CP] Elle's Town Buildings",
+      "[CP] Nyapu's Portraits(1.6.9)",
+      "UIInfoSuite2",
+
+      "Lowkey Spring Interface Recolor-25349-1-3-9-1739653232"
+    ]
+  }
+}
